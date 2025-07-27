@@ -1,0 +1,1 @@
+matplotlibFilmVeriSeti.ipynb: Film verilerini yükler, pandas ve numpy ile işler, Matplotlib kullanarak görselleştirir. Eğilimleri keşfetmek için dağılım grafikleri ve histogramlar oluşturur. [kaynak: uploaded:matplotlibFilmVeriSeti.ipynb]
